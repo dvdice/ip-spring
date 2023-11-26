@@ -16,5 +16,4 @@ public class DemoApplication {
 	public String hello(){
 		return "Hello damir";
 	}
-
 }
